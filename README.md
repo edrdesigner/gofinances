@@ -70,3 +70,5 @@ This is the GoFinances application, for managing transactions in which the user 
 ```
 
 Made with love by [Eduardo Reichert](https://github.com/edrdesigner) 💜 at @RocketSeat GoStack 11.0 🚀
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P11QNA0)
